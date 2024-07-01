@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Personal Website",
+    "imageUrl": "miweb",
+    "status": "Mi website personal, creé este website para que puedas conocer mi perfil, mis habilidades y proyectos realizados.",
+    "tech": "React, Vite, Tailwind",
+    "github": "https://github.com/rakha-elctrnx/Portofolio-v2",
+    "demo": "https://portfolio-kaquka2.web.app/about"
+  },
+  {
+    "id": 2,
+    "name": "uHungry",
+    "imageUrl": "uHungry",
+    "status": "Aplicación que unifica las cafeterías y vendedores ambulantes de un campus universitario todo en una app en tu dispositivo móvil, al alcance de tu mano.",
+    "tech": "React Native, Expo, AWS",
+    "github": "https://github.com/DominusDrow/uHungry",
+    "demo": "https://uhunngry.web.app/"
+  },
+  {
+    "id": 3,
+    "name": "ConektaBUAP",
+    "imageUrl": "conektabuap",
+    "status": "Página Web promocional en la que la comunidad estudiantil se conecta publicando eventos de interés en el campus. ",
+    "tech": "HTML, CSS, JS",
+    "github": "https://github.com/kaquka/conektaBUAP",
+    "demo": "https://conektabuap.web.app/"
+  },
+  {
+    "id": 4,
+    "name": "OPOS",
+    "imageUrl": "opos",
+    "status": "Plataforma de punto de venta para restaurantes open source, en el cual otros desarrolladores podrán modificar a su gusto y necesidades el sistema.",
+    "tech": "React, NextJS, Supabase",
+    "github": "https://github.com/ByPineda/OPOS",
+    "demo": "null"
+  },
+  {
+    "id": 5,
+    "name": "BattleshipGame",
+    "imageUrl": "battle",
+    "status": "Es una aplicación de videojuego que simula el clásico juego de batalla naval en un entorno interactivo. Este proyecto involucró la creación de una interfaz gráfica dinámica y la implementación de una base de datos para almacenar los puntajes de los jugadores.",
+    "tech": "Java, SQL",
+    "github": "https://github.com/kaquka/battleshipProject",
+    "demo": "null"
+  }
+]
+  

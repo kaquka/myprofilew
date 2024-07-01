@@ -1,0 +1,25 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ajusta según tus necesidades */
+}
+
+.text-container {
+    text-align: center;
+}
+
+.contact-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.linkedin-icon {
+    width: 50px; /* Ajusta el tamaño según tus necesidades */
+    height: 50px; /* Ajusta el tamaño según tus necesidades */
+}
+
+.contact-icons .wave {
+    margin-right: 20px; /* Ajusta este valor según la cantidad de espacio deseada */
+  }

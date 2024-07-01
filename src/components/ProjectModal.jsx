@@ -31,8 +31,8 @@ const ProjectModal = ({ isOpen, onRequestClose, project }) => {
         </div>
       </div>
       <p className="mb-4 text-white">{project.description}</p>
-      <p className="text-white"><strong>Status:</strong> {project.status}</p>
-      <p className="text-white"><strong>Technologies:</strong> {project.tech}</p>
+      <p className="text-white"><strong>{project.more}</strong></p>
+      <p className="text-white"><strong>Tecnologías:</strong> {project.tech}</p>
     </Modal>
   );
 };

@@ -84,6 +84,34 @@
         "original": "/assets/portfolio-conektabuap/1.png", 
         "thumbnail": "/assets/portfolio-conektabuap/1.png" 
         }
+    ],
+    "battle": [
+        { 
+        "original": "/assets/portfolio-battle/1.png", 
+        "thumbnail": "/assets/portfolio-battle/1.png" 
+        },
+        {
+        "original": "/assets/portfolio-battle/2.png",
+        "thumbnail": "/assets/portfolio-battle/2.png"
+        }
+    ],
+    "opos": [
+        { 
+        "original": "/assets/portfolio-opos/1.png", 
+        "thumbnail": "/assets/portfolio-opos/1.png" 
+        },
+        { 
+        "original": "/assets/portfolio-opos/2.png", 
+        "thumbnail": "/assets/portfolio-opos/2.png" 
+        },
+        { 
+        "original": "/assets/portfolio-opos/3.png", 
+        "thumbnail": "/assets/portfolio-opos/3.png" 
+        },
+        { 
+        "original": "/assets/portfolio-opos/4.png", 
+        "thumbnail": "/assets/portfolio-opos/4.png" 
+        }
     ]
 
 }

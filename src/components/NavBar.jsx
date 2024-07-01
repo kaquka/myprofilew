@@ -12,7 +12,7 @@ const NavBar = () => {
       <div className="container mx-auto flex flex-wrap items-center justify-between">
         <button onClick={redirectToHome} className="flex">
           <span className="self-center text-lg text-[#ffdb70] font-semibold whitespace-nowrap fadein-bot hover:text-amber-100">
-            Avendaño's
+            Avendaño's presentation
           </span>
         </button>
         <div className="flex md:order-2 fadein-bot">
